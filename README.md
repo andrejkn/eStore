@@ -1,6 +1,5 @@
-# react-redux-starter
-
-> Rangle.io official React + Redux starter
+## eStore
+Online store
 
 ## Getting Started
 
@@ -39,9 +38,6 @@ $ npm start
 ```
 
 ## License
-
-Copyright (c) 2015 rangle.io
-
 [MIT License][MIT]
 
 [MIT]: ./LICENSE "Mit License"
